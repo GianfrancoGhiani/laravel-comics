@@ -23,7 +23,6 @@
                                <div>{{$comic['price']}}</div>
                                <div>Sale date: {{$comic['sale_date']}}</div>
                            </div>
-
                         </div>
                     </div>
                 </div>
@@ -34,7 +33,7 @@
     <button class="text-uppercase">load more</button>
 </section>
 <section class="blue-pt">
-    <div class="container">
+    <div class="container text-uppercase">
         @foreach ($buy as $merch)
             <div class="merch">
             <img src="{{Vite::asset('resources/img/'.$merch['imgPath'])}}" alt="{{$merch['title']}}">

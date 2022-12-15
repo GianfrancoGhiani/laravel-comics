@@ -19,5 +19,8 @@ Route::get('/', function () {
     $links = config('comics.links');
     $socials = config('comics.socials');
     return view('welcome', compact('comics', 'buy', 'links', 'socials'));
-});
-
+})->name('welcome');
+Route::get('/singlecomic', function () {
+    $single = config('comics.comics[0]');
+    return view('singlecomic', compact('single'));
+})->name('singlecomic');

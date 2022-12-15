@@ -3,7 +3,7 @@
 return [
     'comics' => [
         [
-            "title" => "Action Comics #1000=> The Deluxe Edition",
+            "title" => "Action Comics #1000: The Deluxe Edition",
             "description" => "The celebration of 1,000 issues of Action Comics continues with a new, Deluxe Edition of the amazing comic that won raves when it hit comics shops in April! This hardcover includes all the stories from that issue, plus the tale by writer Paul Levitz and artist Neal Adams that appeared in the Action Comics=> 80 Years Of Superman hardcover, as well as all the variant covers, design sketches by Jim Lee for Superman’s new look, scripts for the stories, the original art from the lost story featuring art by Curt Swan and more! Plus=> a complete reprint of the stories that started it all—the Superman stories Action Comics #1 and 2 from 1938!",
             "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2018/09/AC1000_DLX_162-001_HD_5ba13723281ab0.37845353.jpg?itok=ZsI-C5eX",
             "price" => "$19.99",
@@ -55,7 +55,7 @@ return [
             ],
         ],
         [
-            "title" => "Aquaman Vol. 4=> Underworld",
+            "title" => "Aquaman Vol. 4: Underworld",
             "description" => "Enraged by rumors of Arthur’s survival in the slums of Atlantis, the ruthless King Rath orders the use of ancient Atlantean techno-magic to track down the Aquaman at all costs! But the ex-king Arthur can’t hide for long when his fate collides with that of a mysterious young woman on the run from Rath’s own secret police. Her name=> Dolphin. Collects AQUAMAN #25-30.  ",
             "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/gn-covers/2018/08/AQMv4_UW_153-001_HD_5b7efa1745a9b8.08589135.jpg?itok=HPTtnrsb",
             "price" => "$16.99",
@@ -147,11 +147,11 @@ return [
             ],
         ],
         [
-            "title" => "Batman=> The Joker War Zone #1",
+            "title" => "Batman: The Joker War Zone #1",
             "description" => "Gotham City is a battleground as The Joker takes over the Wayne fortune and wages a street war against the Dark Knight and his allies! Enter the “war zone” with short stories featuring characters like Cassandra Cain, Stephanie Brown, and Luke Fox and see how they’re fighting back in a city under siege! Also, the brutal full debut of the mysterious new anti-hero known as Clownhunter!",
             "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/09/BMTJWZ_01_300-001_HD_5f5ff2307dcb37.34652945.jpg?itok=VswVjLR8",
             "price" => "$5.99",
-            "series" => "Batman=> The Joker War Zone",
+            "series" => "Batman: The Joker War Zone",
             "sale_date" => "2020-09-29",
             "type" => "comic book",
             "artists" => [
@@ -168,11 +168,11 @@ return [
             ],
         ],
         [
-            "title" => "Batman=> Three Jokers #1",
-            "description" => "Thirty years after Batman=> The Killing Joke changed comics forever, Three Jokers reexamines the myth of who, or what, The Joker is and what is at the heart of his eternal battle with Batman. New York Times bestselling writer Geoff Johns and Jason Fabok, the writer/artist team that waged the “Darkseid War” in the pages of Justice League, reunite to tell the ultimate story of Batman and The Joker! After years of anticipation starting in DC Universe=> Rebirth #1, the epic miniseries you’ve been waiting for is here=> find out why there are three Jokers, and what that means for the Dark Knight and the Clown Prince of Crime. It’s a mystery unlike any Batman has ever faced!",
+            "title" => "Batman: Three Jokers #1",
+            "description" => "Thirty years after Batman: The Killing Joke changed comics forever, Three Jokers reexamines the myth of who, or what, The Joker is and what is at the heart of his eternal battle with Batman. New York Times bestselling writer Geoff Johns and Jason Fabok, the writer/artist team that waged the “Darkseid War” in the pages of Justice League, reunite to tell the ultimate story of Batman and The Joker! After years of anticipation starting in DC Universe=> Rebirth #1, the epic miniseries you’ve been waiting for is here=> find out why there are three Jokers, and what that means for the Dark Knight and the Clown Prince of Crime. It’s a mystery unlike any Batman has ever faced!",
             "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/08/cover-v2_5f40314645a734.37285065.png?itok=ImNM2QBY",
             "price" => "$6.99",
-            "series" => "Batman=> Three Jokers",
+            "series" => "Batman: Three Jokers",
             "sale_date" => "2020-08-25",
             "type" => "comic book",
             "artists" => [
@@ -183,11 +183,11 @@ return [
             ],
         ],
         [
-            "title" => "Batman=> White Knight Presents=> Harley Quinn #1",
+            "title" => "Batman: White Knight Presents: Harley Quinn #1",
             "description" => "The Joker is dead, Bruce Wayne is behind bars...and Gotham City is just starting to redefine itself without Batman. As Harley Quinn struggles to adjust to her new life as the mother of Jack Napier’s twins, an elusive mastermind called the Producer seizes the moment to assemble a crew of villains-starting with the Starlet, a serial killer who murders Gotham’s golden age film stars in homage to their silver screen roles. When a recent, gruesome crime scene suggests a connection to The Joker, the GTO, and FBI agent Hector Quimby turn to Harley as the one person with information that could crack the case. With some help from Bruce, Harley agrees to investigate-but to protect her children and her city from a fatal final act, Harley must flirt with madness and confront her own past.",
             "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/10/BMWK_HQ_01_300-001_HD_5f7cb4945e13f6.89501032.jpg?itok=sVwALbUX",
             "price" => "$4.99",
-            "series" => "Batman=> White Knight Presents=> Harley Quinn",
+            "series" => "Batman: White Knight Presents=> Harley Quinn",
             "sale_date" => "2020-10-20",
             "type" => "comic book",
             "artists" => [
@@ -198,7 +198,7 @@ return [
             ],
         ],
         [
-            "title" => "Catwoman Vol. 1=> Copycats",
+            "title" => "Catwoman Vol. 1: Copycats",
             "description" => "Following her near-miss wedding with Batman, Catwoman hits the streets to expose a copycat who’s pulling heists around Gotham City. As Selina cracks the whip on her former criminal cohorts, she’s attracting unwanted attention from one of Gotham’s most dangerous groups. The mob? Nope. Try the GCPD. And as if the Bat-Bride didn’t have enough problems, don’t miss the debut of an all-new villain determined to make trouble for all nine of Selina’s lives. Collects issues #1-6 of Catwoman’s new series.",
             "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/gn-covers/2019/04/CTWv1_CC_144-001_HD_5ca5299a751963.53054221.jpg?itok=ooPaoLDq",
             "price" => "$16.99",
