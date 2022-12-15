@@ -1,1 +1,66 @@
-@import '~bootstrap/scss/bootstrap'
+@use './partials/variables' as *;
+@import '~bootstrap/scss/bootstrap';
+
+@import '@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '@fortawesome/fontawesome-free/scss/solid.scss';
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.blue-topbar{
+    background-color: $lightblue;
+    font-weight: 700;
+    font-size: 60%;
+    color: $white;
+}
+.navbar{
+    .nav-item{
+     line-height: 5rem;
+    }
+}
+.my-navbar-logo img{
+    max-width: 5rem;
+}
+.my-navbar-menu{
+    max-width: 80%;
+    text-align: right;
+}
+.nav-link{
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 5rem;
+    border-bottom: 4px solid transparent;
+
+    &.my-active{
+        border-bottom: 4px solid $lightblue;
+        color: $lightblue;
+    }
+}
+.my-search{
+    border-bottom: 2px solid $lightblue;
+    &{
+        background-color: $white;
+    }
+}
+.img-space{
+    background-image: url('../img/jumbotron.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+    min-height: 300px;
+    position: relative;
+    text-transform: uppercase;
+    .container{
+        position: absolute;
+        bottom: -1.8rem;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+    h2{
+        color: $white;
+        background-color: $lightblue;
+        padding: .8rem 2rem;
+        width: fit-content;
+        
+    }
+}
